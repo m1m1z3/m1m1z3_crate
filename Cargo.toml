@@ -3,6 +3,8 @@ name = "m1m1z3"
 description = "A crate for learning purpose. Generating a greeting from me to..."
 version = "0.1.0"
 edition = "2021"
+license = "MIT"
+repository="https://github.com/m1m1z3/m1m1z3_crate"
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
