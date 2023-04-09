@@ -1,0 +1,9 @@
+[package]
+name = "m1m1z3"
+description = "A crate for learning purpose. Generating a greeting from me to..."
+version = "0.1.0"
+edition = "2021"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
